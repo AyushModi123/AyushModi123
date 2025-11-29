@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <em style="color:#ff6a00;">Building scalable distibuted systems</em>
+  <em style="color:#ff6a00;">Building scalable distributed systems</em>
 </p>
 
 ---
