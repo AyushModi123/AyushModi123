@@ -28,6 +28,13 @@
 
 ---
 
+<!-- GITHUB CONTRIBUTIONS -->
+## 🐍 My GitHub Contributions
+
+![snake gif](https://github.com/AyushModi123/AyushModi123/blob/output/github-snake.svg)
+
+---
+
 ## ✍️ Medium Articles
 
 <table>
