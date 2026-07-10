@@ -1,17 +1,7 @@
 <!-- Visitor Counter -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=AyushModi123&label=Visitors&color=ffae00&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=AyushModi123&label=Visitors&color=D97757&style=flat" />
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:ffae00,100:ff6a00&height=180&section=header&text=Ayush%20Modi&fontSize=50&fontColor=ffffff" />
-</p>
-
-<p align="center">
-  <em style="color:#ff6a00;">Building scalable distributed systems</em>
-</p>
-
----
 
 ## ⭐ GitHub Metrics
 <p align="center">
@@ -20,10 +10,36 @@
 
 ---
 
+## 🌐 Live Work — [zenlith.dev](https://zenlith.dev)
+
+<em style="color:#D97757;">Tools that leave no trace — privacy-first, peer-to-peer, nothing stored.</em>
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://hashpad.zenlith.dev" target="_blank"><b>Hashpad</b></a>
+      <br/>
+      <sub>Markdown notes where the URL <em>is</em> the database</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://share.zenlith.dev" target="_blank"><b>Share</b></a>
+      <br/>
+      <sub>Peer-to-peer file transfer — nothing touches a server</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://radar.zenlith.dev" target="_blank"><b>Radar</b></a>
+      <br/>
+      <sub>Ephemeral live location that vanishes on close</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🧠 Tech-Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,django,flask,fastapi,redis,postgres,mysql,mongodb,docker,nginx,ansible,githubactions,jenkins,linux,gcp,git,github,postman,vscode,androidstudio,idea" />
+  <img src="https://skillicons.dev/icons?i=python,go,java,django,flask,fastapi,redis,postgres,mysql,mongodb,docker,nginx,ansible,githubactions,jenkins,linux,gcp,git,github,postman,vscode,androidstudio,idea" />
 </p>
 
 ---
@@ -132,49 +148,10 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <div style="height: 320px;">
-        <a href="https://drivezone.vercel.app/" target="_blank">
-          <img 
-            src="https://github.com/user-attachments/assets/a7a19ecc-2f29-48bd-b407-2efef0066c5e" 
-            alt="DriveZone Preview"
-            width="100%"
-            style="border-radius: 10px;"
-          />
-        </a>
-        <br/>
-        <a href="https://drivezone.vercel.app/"><b>DriveZone</b></a>
-      </div>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <div style="height: 320px;">
-        <a href="https://eigenmask.com" target="_blank">
-          <img 
-            src="https://github.com/user-attachments/assets/57432e9f-cec1-48eb-807e-18356d2d82c2"
-            alt="EigenMask"
-            width="100%"
-            style="border-radius: 10px;"
-          />
-        </a>
-        <br/>
-        <a href="https://eigenmask.com"><b>EigenMask</b></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🧩 Activity Graph
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AyushModi123&bg_color=fff5e1&color=ff6a00&line=ffae00&point=ff6a00&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AyushModi123&bg_color=F0EEE6&color=1F1E1D&line=D97757&point=BD5D3A&area=true&hide_border=true"
     width="95%"
   />
 </p>
-
-
